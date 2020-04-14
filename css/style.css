@@ -1,3 +1,13 @@
+body{
+    font: 20px Relay, sans-serif;
+}
+
 .navbar{
     background-color: blueviolet;
+}
+
+.emily-class{
+    background-color: cornsilk;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
